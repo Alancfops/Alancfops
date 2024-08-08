@@ -1,20 +1,20 @@
-<h1 align="center">Olá! Eu sou [Alan] 👋</h1>
+<h1 align="center">Olá! Eu sou Alan 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/[Alancfops]" target="_blank">
-    <img src="https://img.shields.io/github/followers/[Alancfops]?label=Follow&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/https://github.com/Alancfops" target="_blank">
+    <img src="https://img.shields.io/github/followers/https://github.com/Alancfops?label=Follow&style=social" alt="GitHub Followers" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Alancfops]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Alancfops&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/[https://www.linkedin.com/in/alan-cristian-2b302328b/]/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[https://www.linkedin.com/in/alan-cristian-2b302328b/]/" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/alan-cristian-2b302328b//" alt="LinkedIn">
   </a>
-  <a href="mailto:[fariasalan13@gmail.com]">
+  <a href="mailto:fariasalan13@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -39,7 +39,7 @@
 
 - 💼 Aspirante a Engenheiro de Dados, com grande interesse em análise e manipulação de dados.
 - 🌱 Estou em constante aprendizado para me tornar um desenvolvedor Full Stack em Ruby, combinando backend e frontend de maneira eficiente.
-- 📫 Me envie uma mensagem: [fariasalan13@gmail.conm]
+- 📫 Me envie uma mensagem: fariasalan13@gmail.conm
 - 💬 Vamos conversar sobre Ruby, engenharia de dados e desenvolvimento full stack!
 
 ---
