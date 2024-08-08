@@ -12,11 +12,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alan-cristian-2b302328b/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn">
   </a>
   <a href="mailto:fariasalan13@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/50/000000/gmail.png" alt="Gmail">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" alt="Gmail">
   </a>
+</p>
+
 </p>
 
 
