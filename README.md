@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alancfops&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alancfops&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 </p>
 
@@ -45,5 +46,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alancfops&color=brightgreen" alt="Visualizações do Perfil">
+  <img src="https://img.shields.io/github/views/count/Alancfops/Alancfops?style=social" alt="Visualizações do Perfil">
+  <img src="https://img.shields.io/github/followers/Alancfops?label=Follow&style=social" alt="GitHub Followers">
 </p>
