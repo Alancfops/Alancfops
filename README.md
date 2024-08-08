@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[seu-usuario]&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[Alancfops]&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/[https://www.linkedin.com/in/alan-cristian-2b302328b/]/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[seu-linkedin]/" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/[https://www.linkedin.com/in/alan-cristian-2b302328b/]/" alt="LinkedIn">
   </a>
-  <a href="mailto:[seu-email]">
+  <a href="mailto:[fariasalan13@gmail.com]">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
   </a>
 </p>
