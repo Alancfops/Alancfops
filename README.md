@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alancfops&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alancfops&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 </p>
 
 <p align="center">
@@ -18,9 +18,6 @@
     <img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" alt="Gmail">
   </a>
 </p>
-
-</p>
-
 
 ---
 
