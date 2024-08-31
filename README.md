@@ -67,3 +67,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/Alancfops/Alancfops/output/snake.svg" alt="Snake animation" />
+
+###
