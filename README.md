@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">Eu sou Alan, estudante de sistemas de informação no CESMAC<br><br>- 🔭 Aspirante a Engenheiro de Dados, com grande interesse em análise e manipulação de dados.<br>- 📚 Atualmente estou aprendendo a analisar dados via Python e buscando mais conhecimento dentro da área de dados, com foco em engenharia de dados<br>- ⚡ Em meu tempo livre gosto de jogar e buscar novos conhecimentos dentro da área de tecnologia em si</p>
+
 
 ###
 
