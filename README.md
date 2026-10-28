@@ -47,7 +47,7 @@
 
 **Games, VR & Ferramentas**
 
-<img src="https://skillicons.dev/icons?i=unity,docker,git,github,linux,bash,vscode,figma&perline=8" alt="Games, VR e Ferramentas" />
+<img src="https://skillicons.dev/icons?i=unity,docker,git,github,linux,bash,vscode&perline=8" alt="Games, VR e Ferramentas" />
 
 **IA & Agentes**
 
